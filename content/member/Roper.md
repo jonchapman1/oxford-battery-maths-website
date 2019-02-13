@@ -1,59 +1,34 @@
 +++
-bio = ""
-date = "2016-07-12T15:52:22+02:00"
-id = "iroper"
-interests = ["Lithium-ion Batteries", "Solid Mechanics", "Silicon Anodes", "Stress-assisted Diffusion"]
 name = "Ian Roper"
+bio = ""
+short_bio = "My research focuses on mathematically modelling anode particles containing silicon."
+id = "iroper"
+title = "Ian Roper"
 portrait = "/portraits/portrait.jpg"
-short_bio = "My project focuses on "
-short_name = ""
-title = "Member 1"
+interests = ["Lithium Ion Batteries", "Solid Mechanics", "Silicon Anodes", "Stress-Assisted Diffusion"]
+cv_link = ""
+personal_website = "https://www.maths.ox.ac.uk/people/ian.roper"
+sort_position = 1
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:roper@maths.ox.ac.uk"
 
 [[social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/"
-
-[[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.nl/"
-
-[[social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/"
+    link = "//twitter.com/Ropermaths"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "MSci in Natural Sciences"
+    institution = 'University of Nottingham'
+    year = 2015
 
 [[organizations]]
-    name = "Harvard University"
-    role = "Full Professor"
+    name = "Oxford University"
+    role = "DPhil Candidate"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
-
-## Ait erili meruisse iactatis omnibus erat
-
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
+My research focuses on mathematically modelling anode particles containing silicon. Silicon has a large capacity for lithium but expands up to four times its original size upon lithiation. This causes high stresses inside the anode, which can cause cracks and result in severe capacity fade. I use a solid mechanics model coupled to a diffusion model for the lithium transport to research the interplay between the lithiation and the stresses induced. I also use homogenisation to study the effect that changes to the design of nano-particles has on the macroscale behaviour of an anode consisting of agglomerated nano-particles.
