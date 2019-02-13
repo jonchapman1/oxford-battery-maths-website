@@ -1,11 +1,11 @@
 +++
-bio = "Robert is currently a Postdoctoral Research Assistant. His research focuses on the Mathematical Modelling of Batteries."
+bio = "Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution."
 date = "2016-07-12T15:52:22+02:00"
 id = "rtimms"
 interests = ["Asymptotic Methods", "Mathematical Modelling", "Industrial Mathematics"]
-name = "Robert Timms"
+name = "Dr. Robert Timms"
 portrait = "/portraits/rtimms_photo.jpg"
-short_bio = ""
+short_bio = "Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution."
 short_name = "Timms"
 title = "Timms"
 
