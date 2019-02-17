@@ -12,12 +12,12 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Oxford Mathematical Modelling Battery Group"
 
-author = "Your name"
+author = "Valentin Sulzer"
 
-slogan = "ACADEMIC GROUP"
-slogan_text = "Modern Artificial Intelligence research"
+slogan = "Oxford Mathematical Modelling Battery Group"
+slogan_text = "Exploiting mathematics to improve battery design and management"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -66,11 +66,11 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-email = "sulzer@maths.ox.ac.uk"
+email = "please@maths.ox.ac.uk"
 address = "Mathematical Institute, Andrew Wiles Building, University of Oxford, Woodstock Road, Oxford, OX2 6GG, UK"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
-phone = "+44 7976 771 902"
+phone = ""
 skype = ""
 telegram = ""
 keybase = ""  # Your keybase.io username.
@@ -129,25 +129,11 @@ custom_css = []#"blue.css"] # from https://github.com/rbind/apreshill/tree/maste
 custom_js  = []
 
 [[slogan_columns]]
-  title = "About"
-  text =  "Lorem markdownum potest utinam stabat nostris circinat sui intus eminus sanguis: narres gratata hastae dissimulant erat Trinacris! Et caput mandata gravitate atque, caeloque Oleniae austrum! Haemonio ex neque in suas iste, quem hastam alis conquerar altae, arce tutaeque est sincera [fores](http://illo.com/). Et *Aetnaea in spectat* mutarent. Prospexit longaeque adest fatidicamque dicemur habet, nec cognitus me Trachinia sperat."
+  title = ""
+  text =  "To improve battery performance it is important to understand the underlying physical mechanisms occurring in the battery and encase them in mathematical models of the appropriate complexity and fidelity to allow design and control systems to operate effectively. The group develops PDE based models, studies these in various asymptotic limits and determines efficient computational methods of solution. Current areas of interest include effective ways of accounting for thermal effects, heterogeneity of particles, mechanical deformation, and growth of SEI layers."
   link = "/about"
-  link_text = "Meet the team"
+  link_text = "Find out more"
   weight = 1
-
-[[slogan_columns]]
-  title = "Mission"
-  text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
-  link = "/mission"
-  link_text = "Read more"
-  weight = 2
-
-[[slogan_columns]]
-  title = "Approach"
-  text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
-  link = "/approach"
-  link_text = "Read more"
-  weight = 3
 
 # Selected Publications section.
 # [publications_selected]
