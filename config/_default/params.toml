@@ -1,0 +1,248 @@
+# SITE SETUP
+# Documentation: https://sourcethemes.com/academic/
+
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
+color_theme = "ocean"
+# Enable users to switch between day and night mode?
+day_night = true
+
+# Font style.
+#   Choose from `default`, `classic`, or `playfair`.
+font = "default"
+
+# Description for social sharing and search engines. If undefined, superuser role is used in place.
+description = ""
+
+author = "Your name"
+
+slogan = "ACADEMIC GROUP"
+slogan_text = "Modern Artificial Intelligence research"
+
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image = ""
+
+# Twitter username (without @). Used when a vistor shares your site on Twitter.
+twitter = ""
+
+# Diplay a logo in navigation bar rather than title (optional).
+#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+logo = ""
+
+# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+date_format = "2 Jan, 2006"
+#   Examples: "3:04 pm" or "15:04"
+time_format = "15:04"
+
+# Show estimated reading time for posts?
+reading_time = true
+
+# Display comment count? Requires commenting to be enabled.
+comment_count = true
+
+# Display next/previous section pager?
+section_pager = false
+
+# Enable global LaTeX math rendering?
+#   If false, you can enable it locally on a per page basis.
+math = false
+
+# Enable global source code highlighting? true/false
+# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
+highlight = true
+# highlight_languages = ["r"]  # Add support for highlighting additional languages
+# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+
+# Enable native social sharing buttons?
+sharing = true
+
+# Privacy pack
+#   Show a cookie consent message to visitors
+#   Anonymize IP in Google Analytics (if enabled)
+privacy_pack = false
+
+# Get user avatars from Gravatar.com? (true/false)
+gravatar = false
+
+# Contact Widget setup
+email = "sulzer@maths.ox.ac.uk"
+address = "Mathematical Institute, Andrew Wiles Building, University of Oxford, Woodstock Road, Oxford, OX2 6GG, UK"
+# Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
+office_hours = ""
+phone = "+44 7976 771 902"
+skype = ""
+telegram = ""
+keybase = ""  # Your keybase.io username.
+
+# Enter an optional link for booking appointments (e.g. calendly.com).
+appointment_url = ""
+
+# Discussion link (e.g. link to a forum, mailing list, or chat).
+#   Uncomment line below to use.
+#   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+
+# Enable/disable map in Contact widget.
+# To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+# a map provider below.
+# To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+#   https://developers.google.com/maps/documentation/javascript/get-api-key
+# To use OpenStreetMap tiles, set `map = 2`.
+# To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+#   https://www.mapbox.com/studio/account/tokens
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+#
+# Map provider:
+#   0: No map
+#   1: Google Maps
+#   2: OpenStreetMap (Mapnik)
+#   3: OpenStreetMap (Mapbox)
+map = 0
+map_api_key = ""
+latitude = "37.4275"
+longitude = "-122.1697"
+zoom = 15
+
+# Publication types.
+#   Used to categorize publications.
+#   The index of the publication type in the list is used as its unique numerical identifier.
+#   The numeric ID is used in a publication's frontmatter to categorize it.
+#   The language can be edited below.
+#   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+#   translated.
+publication_types = [
+  'Uncategorized',  # 0
+  'Conference paper',  # 1
+  'Journal article',  # 2
+  'Manuscript',  # 3
+  'Report',  # 4
+  'Book',  # 5
+  'Book section'  # 6
+]
+
+# Align the main menu to the right of the page? (true/false)
+menu_align_right = true
+
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+custom_css = []#"blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
+custom_js  = []
+
+[[slogan_columns]]
+  title = "About"
+  text =  "Lorem markdownum potest utinam stabat nostris circinat sui intus eminus sanguis: narres gratata hastae dissimulant erat Trinacris! Et caput mandata gravitate atque, caeloque Oleniae austrum! Haemonio ex neque in suas iste, quem hastam alis conquerar altae, arce tutaeque est sincera [fores](http://illo.com/). Et *Aetnaea in spectat* mutarent. Prospexit longaeque adest fatidicamque dicemur habet, nec cognitus me Trachinia sperat."
+  link = "/about"
+  link_text = "Meet the team"
+  weight = 1
+
+[[slogan_columns]]
+  title = "Mission"
+  text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
+  link = "/mission"
+  link_text = "Read more"
+  weight = 2
+
+[[slogan_columns]]
+  title = "Approach"
+  text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
+  link = "/approach"
+  link_text = "Read more"
+  weight = 3
+
+# Selected Publications section.
+# [publications_selected]
+#   detailed_list = true
+#   title = "Selected Publications"
+#   subtitle = ""
+
+# Publications section.
+# Section will only be displayed if there are publications in `content/publication/`.
+[publications]
+  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "January, 2006"
+  count = 5
+  detailed_list = false
+  title = "Publications"
+  subtitle = ""
+  str_all = "More Publications"
+
+# Posts section.
+# Section will only be displayed if there are posts in `content/post/`.
+[posts]
+  count = 2
+  title = "Blog"
+  subtitle = ""
+  str_all = "More Posts"
+  str_read_more = "Read more"
+
+# Projects section.
+# Section will only be displayed if there are projects in `content/project/`.
+
+
+# Configuration of project pages.
+[projects]
+  title = "Projects"
+  subtitle = ""
+  count = 3
+  str_all = "More Projects"
+
+#  # List publications and talks related to the project?
+#  list_children = true
+#
+#  # Post list format.
+#  #   0 = Simple
+#  #   1 = Detailed
+#  #   2 = Stream
+#  post_format = 2
+#
+#  # Publication list format.
+#  #   0 = Simple
+#  #   1 = Detailed
+#  #   2 = APA
+#  #   3 = MLA
+#  #   4 = Stream
+#  publication_format = 4
+#
+#  # Talk list format.
+#  #   0 = Simple
+#  #   1 = Detailed
+#  #   2 = Stream
+#  talk_format = 2
+#
+
+# Vacancies section
+# Section will only be displayed if there are valid vacancies in `content/vacancy`
+[vacancies]
+  title = "Vacancies"
+  subtitle = ""
+  count = 3
+  str_all = "More Vacancies"
+
+# Contact section.
+[contact]
+  enable = true
+  title = "Contact"
+  subtitle = ""
+  autolink = false  # Automatically link email and phone?
+
+# Configuration of talk pages.
+[talks]
+  # Show talk time?
+  time = false
+
+# Search.
+[search]
+  # Search provider:
+  #   0: No search engine
+  #   1: Built-in (Fuse)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 0
+
+  # Configuration of Algolia search engine.
+  # Paste the values from your Algolia dashboard.
+  [search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
+    show_logo = false
