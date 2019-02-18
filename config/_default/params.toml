@@ -97,7 +97,7 @@ appointment_url = ""
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 2
+map = 0
 map_api_key = ""
 latitude = "51.760616"
 longitude = "-1.263015"
@@ -211,6 +211,10 @@ custom_js  = []
   title = "Contact"
   subtitle = ""
   autolink = false  # Automatically link email and phone?
+
+[[contact_member]]
+name = "Colin Please"
+email = "please@maths.ox.ac.uk"
 
 # Configuration of talk pages.
 [talks]
