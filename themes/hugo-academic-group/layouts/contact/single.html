@@ -1,7 +1,26 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+<div align="center">
+    <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
+</div>
 <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-md-8">
+            {{ partial "home_contact.html" . }}
+        </div>
+    </div>
+</div>
+{{ partial "sponsors.html" . }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
+
+
+<!-- {{ partial "header.html" . }}
+{{ partial "navbar.html" . }} -->
+
+<!-- <div class="container">
     <div class="row">
         <div class="col-xs-12 col-md-4 section-heading">
             <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
@@ -15,4 +34,4 @@
 {{ partial "sponsors.html" . }}
 
 {{ partial "footer_container.html" . }}
-{{ partial "footer.html" . }}
+{{ partial "footer.html" . }} -->
