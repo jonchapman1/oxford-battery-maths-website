@@ -213,14 +213,16 @@ custom_js  = []
   subtitle = ""
   autolink = false  # Automatically link email and phone?
 
-[[contact_member]]
-name = "Colin Please"
-email = "please@maths.ox.ac.uk"
-
 # Configuration of talk pages.
 [talks]
   # Show talk time?
   time = false
+
+# Sponsors
+[[sponsors]]
+  name = "BBOXX"
+  link = "https://www.bboxx.co.uk/"
+  image = "bboxx-logo.png"
 
 # Search.
 [search]
