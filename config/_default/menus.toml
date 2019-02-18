@@ -26,10 +26,11 @@
 
 [[main]]
   name = "Software"
-  url = "/software"
+  url = "https://pybamm.readthedocs.io/en/latest/"
+  target = "_blank"
   weight = 5
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/contact"
   weight = 6

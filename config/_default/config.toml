@@ -13,7 +13,7 @@ baseurl = "http://www.maths.ox.ac.uk/groups/battery"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Valentin Sulzer ([source](https://github.com/tinosulzer/tinosulzer.github.io))"
+copyright = "&copy; Valentin Sulzer, 2019 ([source](https://github.com/tinosulzer/oxford-battery-maths-website))"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
