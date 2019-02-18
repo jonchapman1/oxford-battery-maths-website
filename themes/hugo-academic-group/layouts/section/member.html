@@ -42,5 +42,16 @@
 {{ end }}
 </div>
 
+{{ if isset $.Params "collaborators" }}
+<div class="container">
+    <h2>Collaborators</h2>
+    <ul>
+    {{ range $.Params.collaborators }}
+        <li><a href="{{.link}}">{{ .name }}<a></li>
+    {{ end }}
+    </ul>
+{{ end }}
+</div>
+
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
