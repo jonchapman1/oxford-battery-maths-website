@@ -156,11 +156,11 @@ custom_js  = []
 # Posts section.
 # Section will only be displayed if there are posts in `content/post/`.
 [posts]
-  count = 2
-  title = "Blog"
+  count = 4
+  title = "Recent news"
   subtitle = ""
-  str_all = "More Posts"
-  str_read_more = "Read more"
+  str_all = "More news"
+  str_read_more = ""
 
 # Projects section.
 # Section will only be displayed if there are projects in `content/project/`.
