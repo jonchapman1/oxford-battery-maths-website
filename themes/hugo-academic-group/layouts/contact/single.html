@@ -6,9 +6,7 @@
         <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
     </div>
     <div class="row">
-        {{ range .Site.Params.contact_member }}
-            {{partial "individual_contact"}}
-        {{ end }}
+        {{ with .Site.Params.contact.text }}{{ . | markdownify }}{{ end }}
     </div>
     <div class="row">
         <h2>Address</h2>

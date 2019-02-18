@@ -5,7 +5,7 @@ id = "cpplease"
 interests = ["PDE modelling", "Asymptotic methods", "Industrial mathematics"]
 name = "Colin Please"
 portrait = "/portraits/cpp.jpg"
-short_bio = "I am interested in modelling of many practical industrial problems using continuum models. I am particularly interested in using asymptotic methods to derive reduced models that can be readily interpreted and easily parametrised."
+short_bio = "Colin is Professor of Applied Mathematics. He is interested in modelling of many practical industrial problems using continuum models,in particular in using asymptotic methods to derive reduced models that can be readily interpreted and easily parametrised."
 short_name = "Colin"
 title = "Colin Please"
 personal_website = "http://www.maths.ox.ac.uk/people/colin.please"
@@ -15,11 +15,6 @@ position = "principal investigator"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:please@maths.ox.ac.uk"
-
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/"
 
 [[social]]
     icon = "google-scholar"
@@ -42,4 +37,4 @@ position = "principal investigator"
 
 +++
 
-I am interested in modelling of many practical industrial problems using continuum models. I am particularly interested in using asymptotic methods to derive reduced models that can be readily interpreted and easily parametrised.
+Colin is Professor of Applied Mathematics. He is interested in modelling of many practical industrial problems using continuum models,in particular in using asymptotic methods to derive reduced models that can be readily interpreted and easily parametrised.

@@ -1,7 +1,7 @@
 +++
 name = "Valentin Sulzer"
 bio = ""
-short_bio = "Tino is a DPhil Candidate in Electrochemical Modelling. His research interests include energy storage, differential equations, asymptotic analysis and optimal control."
+short_bio = "Tino is a DPhil Candidate in Applied Mathematics. His research interests include energy storage, differential equations, asymptotic analysis and optimal control."
 id = "sulzer"
 title = "Valentin Sulzer"
 portrait = "/portraits/sulzer.jpg"
@@ -58,10 +58,10 @@ position = "graduate student"
 
 +++
 
-I am a DPhil Candidate in Applied Mathematics at the University of Oxford.
-My research is in industrial mathematics, with a focus on electrochemical modelling and asymptotic analysis.
-For my DPhil, I am working with BBOXX to model charge and discharge of lead-acid batteries for off-grid applications in sub-Saharan Africa.
+Tino is a DPhil Candidate in Applied Mathematics at the University of Oxford.
+His research is in industrial mathematics, with a focus on electrochemical modelling and asymptotic analysis.
+For his DPhil, he is working with BBOXX to model charge and discharge of lead-acid batteries for off-grid applications in sub-Saharan Africa.
 
-I am passionate about using mathematical modelling to create smarter batteries and accelerate the development of renewable energy solutions.
-In particular, I believe that simplified electrochemical models, such as the single-particle model, are crucial to bridge the gap between equivalent-circuit models (fast but physically inaccurate) and physics-based models (accurate but prohibitively complex).
-I am also particularly keen on developing open-source software to improve collaboration and maximise research impact.
+He is am passionate about using mathematical modelling to create smarter batteries and accelerate the development of renewable energy solutions.
+In particular, he believes that simplified electrochemical models, such as the single-particle model, are crucial to bridge the gap between equivalent-circuit models (fast but physically inaccurate) and physics-based models (accurate but prohibitively complex).
+He is also particularly keen on developing open-source software to improve collaboration and maximise research impact.
