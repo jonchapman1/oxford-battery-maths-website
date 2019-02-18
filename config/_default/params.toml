@@ -220,9 +220,29 @@ custom_js  = []
 
 # Sponsors
 [[sponsors]]
+  name = "The Faraday Institution"
+  link = "https://faraday.ac.uk/"
+  image = "TFI-logo.png"
+
+[[sponsors]]
+  name = "EPSRC"
+  link = "https://epsrc.ukri.org/"
+  image = "EPSRC-logo.jpg"
+
+[[sponsors]]
   name = "BBOXX"
   link = "https://www.bboxx.co.uk/"
   image = "bboxx-logo.png"
+
+[[sponsors]]
+  name = "Nexeon"
+  link = "https://www.nexeon.co.uk/"
+  image = "nexeon-logo.jpg"
+
+[[sponsors]]
+  name = "Siemens"
+  link = "https://new.siemens.com/uk/en.html"
+  image = "Siemens-Logo.png"
 
 # Search.
 [search]
