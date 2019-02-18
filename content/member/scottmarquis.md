@@ -1,13 +1,14 @@
 +++
-bio = ""
-date = "2016-07-12T15:52:22+02:00"
-id = "scottmarquis"
-interests = ["Electrochemical Modelling", "Asymptotic Methods", "Degradation"]
 name = "Scott Marquis"
-portrait = "/portraits/ScottMarquis.png"
-short_bio = "Scott Marquis is a DPhil student in the Industrially Focused Mathematical Modelling (InFoMM) centre for doctoral training (CDT). He is working in collaboration with Siemens to develop models of the long-term degradation of lithium-ion batteries. His research focuses on the development of novel mathematical models of key degradataion mechanisms (e.g. solid electrolye interphase (SEI) growth) and the employment of asymptotic methods to systematically reduce lithium-ion battery models. By integrating his degradation and reduced models he aims to provide a fast and efficient method for studying long-term degradation. He is also a key member of the core [PyBaMM](https://github.com/tinosulzer/PyBaMM) development team" 
-short_name = ""
+bio = ""
+id = "scottmarquis"
 title = "Scott Marquis"
+portrait = "/portraits/ScottMarquis.png"
+interests = ["Electrochemical Modelling", "Asymptotic Methods", "Degradation"]
+short_bio = "Scott is DPhil candidate in Applied Mathematics. He is working in collaboration with Siemens to develop mathematical models of the long-term degradation of lithium-ion batteries. He is also a key member of the core [PyBaMM](https://github.com/tinosulzer/PyBaMM) development team." 
+short_name = "Marquis"
+position = "graduate student"
+personal_website = "https://www.maths.ox.ac.uk/people/scott.marquis"
 
 [[social]]
     icon = "envelope"
@@ -29,13 +30,6 @@ title = "Scott Marquis"
     role = "DPhil Student"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+Scott is a DPhil student in Applied Mathematics. He is working in collaboration with Siemens to develop models of the long-term degradation of lithium-ion batteries. His research focuses on the development of novel mathematical models of key degradataion mechanisms (e.g. solid electrolye interphase (SEI) growth) and the employment of asymptotic methods to systematically reduce lithium-ion battery models. By integrating his degradation and reduced models he aims to provide a fast and efficient method for studying long-term degradation. He is also a key member of the core [PyBaMM](https://github.com/tinosulzer/PyBaMM) development team.
 
-## Ait erili meruisse iactatis omnibus erat
-
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
