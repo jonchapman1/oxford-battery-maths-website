@@ -634,7 +634,7 @@ section#projects.home-section .project-tags {
 }
 
 @media screen and (max-width: 768px) {
-    .project-picture { 
+    .project-picture {
         display: block;
     }
 }
@@ -826,7 +826,7 @@ nav#navbar-main li {
     }
     .navbar-static-top {
         top: 0;
-        border-width: 0 0 1px;   
+        border-width: 0 0 1px;
     }
     .navbar-collapse.collapse {
         display: none!important;

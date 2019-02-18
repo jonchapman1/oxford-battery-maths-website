@@ -1,13 +1,15 @@
 +++
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
-id = "tinosulzer"
+id = "sjchapman"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
 name = "Jon Chapman"
-portrait = "/portraits/portrait.jpg"
-short_bio = "My short bio. I am Member Member."
+portrait = "/portraits/chapman.jpg"
+short_bio = "My short bio. I am Head Honcho."
 short_name = ""
-title = "Member 1"
+title = "Jon Chapman"
+position = "principal investigator"
+personal_website = "http://people.maths.ox.ac.uk/chapman/"
 
 [[social]]
     icon = "envelope"

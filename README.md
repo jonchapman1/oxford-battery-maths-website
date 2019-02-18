@@ -9,7 +9,7 @@ $ cd oxford-battery-maths-website
 ```
 2. Run the website locally using hugo:
 ```
-$ hugo/.hugo server
+$ hugo/hugo server
 ```
 then open a web browser and go to the link indicated in the terminal (probably http://localhost:1313/).
 3. Make any changes by editing the markdown files in [content](./content/) or the [config file](./config.toml). If `hugo server` is still running (hasn't been terminated by Ctrl+C or closing the terminal) then these changes will be visible immediately on http://localhost:1313/.

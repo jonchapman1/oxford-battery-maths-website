@@ -8,9 +8,11 @@
   <p class="article-style" itemprop="articleBody">
       {{ .Params.short_text }}
   </p>
+  {{ if .Site.Params.posts.str_read_more}}
   <p class="read-more">
       <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
           {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
       </a>
   </p>
+  {{ end }}
 </div>

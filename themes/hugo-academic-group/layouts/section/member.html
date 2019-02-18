@@ -1,13 +1,33 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
-
-<div class="container">
-    <h1>Members</h1>
-    {{ range (sort .Data.Pages ".Params.sort_position") }}
-        {{ if not .Params.is_former_member }}
-            {{partial "member_li" .}}
+<div class="container-fluid">
+    <h1>People</h1>
+    <h2>Principal investigators</h2>
+    <div class="row">
+        {{ range (sort .Data.Pages ".Params.sort_position") }}
+            {{ if eq .Params.position "principal investigator"}}
+                {{partial "member_li" .}}
+            {{ end }}
         {{ end }}
-    {{ end }}
+    </div>
+
+    <h2>Postdoctoral researchers</h2>
+    <div class="row">
+        {{ range (sort .Data.Pages ".Params.sort_position") }}
+            {{ if eq .Params.position "postdoc" }}
+                {{partial "member_li" .}}
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <h2>Graduate students</h2>
+    <div class="row">
+        {{ range (sort .Data.Pages ".Params.sort_position") }}
+            {{ if eq .Params.position "graduate student" }}
+                {{partial "member_li" .}}
+            {{ end }}
+        {{ end }}
+    </div>
 </div>
 
 {{ $alumni_len := len (where .Data.Pages ".Params.is_former_member" true ) }}
