@@ -125,7 +125,7 @@ menu_align_right = true
 
 # Link custom CSS and JS assets
 #   (relative to /static/css and /static/js respectively)
-custom_css = []#"blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
+custom_css = ["blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
 custom_js  = []
 
 [[slogan_columns]]
