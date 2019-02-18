@@ -97,10 +97,10 @@ appointment_url = ""
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "51.760616"
+longitude = "-1.263015"
 zoom = 15
 
 # Publication types.
