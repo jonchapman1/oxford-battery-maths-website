@@ -7,7 +7,8 @@ name = "Jon Chapman"
 portrait = "/portraits/portrait.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
-title = "Member 1"
+title = "Jon Chapman"
+position = "principal investigator"
 
 [[social]]
     icon = "envelope"

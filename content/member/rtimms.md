@@ -8,11 +8,8 @@ portrait = "/portraits/rtimms_photo.jpg"
 short_bio = "Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution."
 short_name = "Timms"
 title = "Timms"
-
-[[social]]
-    icon = "globe"
-    icon_pack = "fa"
-    link = "https://www.maths.ox.ac.uk/people/robert.timms"
+position = "postdoc"
+personal_website = "https://www.maths.ox.ac.uk/people/robert.timms"
 
 [[social]]
     icon = "envelope"

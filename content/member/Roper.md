@@ -8,7 +8,7 @@ portrait = "/portraits/Roper_photo.jpg"
 interests = ["Lithium Ion Batteries", "Solid Mechanics", "Silicon Anodes", "Stress-Assisted Diffusion"]
 cv_link = ""
 personal_website = "https://www.maths.ox.ac.uk/people/ian.roper"
-sort_position = 1
+position = "graduate student"
 
 [[social]]
     icon = "envelope"
