@@ -125,7 +125,7 @@ menu_align_right = true
 
 # Link custom CSS and JS assets
 #   (relative to /static/css and /static/js respectively)
-custom_css = []#"blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
+custom_css = ["blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
 custom_js  = []
 
 [[slogan_columns]]
@@ -213,14 +213,36 @@ custom_js  = []
   subtitle = ""
   autolink = false  # Automatically link email and phone?
 
-[[contact_member]]
-name = "Colin Please"
-email = "please@maths.ox.ac.uk"
-
 # Configuration of talk pages.
 [talks]
   # Show talk time?
   time = false
+
+# Sponsors
+[[sponsors]]
+  name = "The Faraday Institution"
+  link = "https://faraday.ac.uk/"
+  image = "TFI-logo.png"
+
+[[sponsors]]
+  name = "EPSRC"
+  link = "https://epsrc.ukri.org/"
+  image = "EPSRC-logo.jpg"
+
+[[sponsors]]
+  name = "BBOXX"
+  link = "https://www.bboxx.co.uk/"
+  image = "bboxx-logo.png"
+
+[[sponsors]]
+  name = "Nexeon"
+  link = "https://www.nexeon.co.uk/"
+  image = "nexeon-logo.jpg"
+
+[[sponsors]]
+  name = "Siemens"
+  link = "https://new.siemens.com/uk/en.html"
+  image = "Siemens-Logo.png"
 
 # Search.
 [search]
