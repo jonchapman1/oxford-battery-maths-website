@@ -413,10 +413,10 @@ ul.share li:hover .fa {
     font-size: 1.75rem;
 }
 
-/*h3.article-title a {
+/* h3.article-title a {
     color: #151515;
     transition: color 0.6s ease;
-}*/
+} */
 
 .article-metadata {
     margin-bottom: 20px;
@@ -592,16 +592,23 @@ img.in-text {
 }
 
 .pub-list-item {
-    margin-bottom: 0px;
+    margin-top: 20px;
 }
 
 .pub-list-item .pub-abstract {
     font-size: 1.13em;
 }
 
+.pub-list-item .pub-title {
+  font-style: bold;
+  line-height: normal;
+  font-size: 1.5em;
+  /*color: #3170A5;*/
+}
+
 .pub-list-item .pub-authors {
+    font-style: italic;
     line-height: normal;
-    font-style: normal;
     font-size: 1.13em;
     /*color: #3170A5;*/
 }
