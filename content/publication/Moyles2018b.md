@@ -22,6 +22,7 @@ url_video = ""
 [[authors]]
     name = "Matthew G. Hennessy"
     is_member = true
+    link = "/mhennessy"
 [[authors]]
     name = "Timothy G. Myers"
     is_member = false
@@ -29,4 +30,3 @@ url_video = ""
     name = "Brian R. Wetton"
     is_member = false
 +++
-

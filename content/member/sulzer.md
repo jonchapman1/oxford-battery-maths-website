@@ -1,7 +1,7 @@
 +++
 name = "Valentin Sulzer"
 bio = ""
-short_bio = "Tino is a DPhil Candidate in Applied Mathematics. His research interests include energy storage, differential equations, asymptotic analysis and optimal control."
+short_bio = "Tino is a DPhil Candidate in Applied Mathematics. His research interests include energy storage, differential equations, asymptotic analysis and optimal control. He is also a key member of the core [PyBaMM](https://github.com/tinosulzer/PyBaMM) development team. "
 id = "sulzer"
 title = "Valentin Sulzer"
 portrait = "/portraits/sulzer.jpg"

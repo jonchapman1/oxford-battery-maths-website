@@ -4,7 +4,10 @@
           <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
       </a>
   {{end}}
-  <h3 class="article-title" itemprop="name"><a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a></h3>
+  <h3 class="article-title" itemprop="name">
+    <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+    <p><time datetime="{{ $.Date }}" itemprop="datePublished">{{ $.Date.Format $.Site.Params.date_format }}</time></p>
+  </h3>
   <p class="article-style" itemprop="articleBody">
       {{ .Params.short_text }}
   </p>

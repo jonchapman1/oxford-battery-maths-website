@@ -23,7 +23,7 @@
             </h3>
 
             <div class="pub-authors" itemprop="author">
-                {{ partial "authors" .Params.authors}}
+                <i>{{ partial "authors" .Params.authors}}</i>
             </div>
 
             <div class="pub-publication">
@@ -37,18 +37,22 @@
                         {{ . }}
                     </br>
                 {{ end }}
+                {{ if $.Params.show_date }}
                 <div itemprop="datePublished">
                     {{ if .Params.to_be_published }}
-                        To be published in {{ dateFormat "January, 2006" .Params.publication_date }}
+                        To be published in {{ dateFormat "January 2006" .Params.publication_date }}
                     {{ else }}
-                        {{ .Date.Format "January, 2006" }}
+                        {{ .Date.Format "January 2006" }}
                     {{ end }}
                 </div>
+                {{ end }}
             </div>
 
+            {{ if $.Params.show_links }}
             <div class="pub-links">
                 {{ partial "publication_links" (dict "content" . "is_list" 1) }}
             </div>
+            {{ end }}
 
         </div>
     </div>
