@@ -12,8 +12,7 @@ interests = [
   "Asymptotic analysis",
   "Optimal control",
 ]
-cv_link = "files/Sulzer_CV.pdf"
-personal_website = "https://www.maths.ox.ac.uk/people/ian.roper"
+personal_website = "https://people.maths.ox.ac.uk/sulzer/"
 position = "graduate student"
 
 
