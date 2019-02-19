@@ -30,13 +30,13 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/hugo-academic-group.css"> -->
 
-    <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | relURL}}" type="text/css">
-    <link rel="stylesheet" href="{{ "css/academicons.min.css" | relURL}}" type="text/css">
+    <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | relURL}}">
+    <link rel="stylesheet" href="{{ "css/academicons.min.css" | relURL}}">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
-    <link rel="stylesheet" href="{{ "css/hugo-academic-group.css" | relURL}}" type="text/css">
-    
+    <link rel="stylesheet" href="{{ "css/hugo-academic-group.css" | relURL}}">
+
     {{ range .Site.Params.custom_css }}
-    <link rel="stylesheet" href="{{ $.Site.BaseURL }}/css/{{ . }}">
+      <link rel="stylesheet" href="{{ "css/{{ . }}" | relURL}}">
     {{ end }}
 
 
