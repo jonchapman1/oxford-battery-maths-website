@@ -1,27 +1,41 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+<header class="">
+	<div class="header-content"> 
+		<div class="container"> 
+			<div class="header-content-inner"> 	
+				<div class="row d-flex h-100">  
+					<div class="col-md-4"> 
+						<a href = "{{ .Params.link }}">
+							<img src="/img/{{.Params.logo}}" class="img-responsive center-block" height=200 width = 400> 
+						</a>
+					</div> 
+
+					<div id="github-logo-big" class="col-md-3 col-md-offset-5"> 
+						<a href = "{{ .Params.link }}">
+							<img src="/img/GitHub_Logo_White.png" class="img-responsive center-block" height=200 width = 150>
+						</a> 
+					</div> 
+
+			</div> 
+		</div>
+	</div>
+</header>
+
 <div class="container">
-	
-    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
-        <h1 itemprop="name">{{ .Title }}</h1>
-	<h2 itemprop="name">{{ .Params.subtitle }}</h2>
-    </article>
-	<ul class="social-icon">
-		<li>
-			<a href="{{ .Params.link }}">
-			<i class="fa fa-github big-icon" aria-hidden="true"></i>
-	    	</a>
-		</li>
-	</ul>
-           
+
+	<div class = "row"> 
+
+		<div class="article-style">
+		    {{ .Content }}
+		</div>
+	</div>
 </div>
+
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
 
     	
-	<!-- <div class="article-style" itemprop="articleBody"> -->
-            <!-- {{ .Content }} -->
-        <!-- </div> -->
-
+        
