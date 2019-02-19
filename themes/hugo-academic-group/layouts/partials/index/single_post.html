@@ -4,13 +4,18 @@
           <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
       </a>
   {{end}}
-  <h3 class="article-title" itemprop="name"><a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a></h3>
+  <h3 class="article-title" itemprop="name">
+    <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+    <p><time datetime="{{ $.Date }}" itemprop="datePublished">{{ $.Date.Format $.Site.Params.date_format }}</time></p>
+  </h3>
   <p class="article-style" itemprop="articleBody">
       {{ .Params.short_text }}
   </p>
+  {{ if .Site.Params.posts.str_read_more}}
   <p class="read-more">
       <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
           {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
       </a>
   </p>
+  {{ end }}
 </div>

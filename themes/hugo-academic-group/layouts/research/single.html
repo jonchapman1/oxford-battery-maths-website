@@ -12,7 +12,7 @@
 
         <div class="row">
             <div class="col-xs-6 article-published-at">
-                <i>Published on:</i> <p>{{ .Date.Format "Jan 2, 2006" }}</p>
+                <i>Published on:</i> <p>{{ .Date.Format $.Site.Params.date_format }}</p>
             </div>
             <div class="col-xs-6 article-authors">
                 <i>Authors:</i>

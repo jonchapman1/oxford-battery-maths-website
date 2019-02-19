@@ -22,6 +22,7 @@ url_video = ""
 [[authors]]
     name = "C. P. Please"
     is_member = true
+    link = "/please"
 [[authors]]
     name = "D. L. S. McElwain"
     is_member = false

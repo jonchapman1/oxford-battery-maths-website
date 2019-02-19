@@ -9,10 +9,10 @@
             {{ range .Data.Pages.GroupByDate "2006" }}
 
             <div class="row" id="pub_list">
-                <div class="col-md-2">
+                <div class="col-md-1">
                     <h3>{{ .Key }}</h3>
                 </div>
-                <div class="col-md-10">
+                <div class="col-md-11">
                     {{ range .Pages.ByDate.Reverse }}
                         {{ partial "publication_li_detailed" . }}
                     {{end}}

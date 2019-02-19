@@ -8,11 +8,8 @@ portrait = "/portraits/hennessy_photo.jpeg"
 short_bio = "Matt is a Hooke Research Fellow at the Mathematical Institute at the University of Oxford. His current focus is on using asymptotic methods to derive simplified models for lithium-ion batteries."
 short_name = "Hennessy"
 title = "Dr Matthew G. Hennessy"
-
-[[social]]
-    icon = "globe"
-    icon_pack = "fa"
-    link = "https://www.maths.ox.ac.uk/people/matthew.hennessy"
+position = "postdoc"
+personal_website = "https://www.maths.ox.ac.uk/people/matthew.hennessy"
 
 [[social]]
     icon = "envelope"
