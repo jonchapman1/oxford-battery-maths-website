@@ -2,10 +2,26 @@
 {{ partial "navbar.html" . }}
 
 <div class="container">
-
+	
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        <h1 itemprop="name">{{ .Title }}</h1>
+	<h2 itemprop="name">{{ .Params.subtitle }}</h2>
+    </article>
+	<ul class="social-icon">
+		<li>
+			<a href="{{ .Params.link }}">
+			<i class="fa fa-github big-icon" aria-hidden="true"></i>
+	    	</a>
+		</li>
+	</ul>
+           
 </div>
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
 
+    	
+	<!-- <div class="article-style" itemprop="articleBody"> -->
+            <!-- {{ .Content }} -->
+        <!-- </div> -->
 
