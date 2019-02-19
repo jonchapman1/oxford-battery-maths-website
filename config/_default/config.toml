@@ -49,7 +49,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 
-custom_css = ["blue.css"]
+# custom_css = ["blue.css"]
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]

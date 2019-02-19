@@ -19,12 +19,15 @@ url_video = ""
 [[authors]]
     name = "Valentin Sulzer"
     is_member = true
+    link = "/sulzer"
 [[authors]]
     name = "S. Jon Chapman"
     is_member = true
+    link = "/chapman"
 [[authors]]
     name = "Colin P. Please"
     is_member = true
+    link = "/please"
 [[authors]]
     name = "David A. Howey"
     is_member = false

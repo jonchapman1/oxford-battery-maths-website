@@ -31,7 +31,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2 Jan, 2006"
+date_format = "2 January 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
@@ -123,9 +123,9 @@ publication_types = [
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = true
 
-# Link custom CSS and JS assets
-#   (relative to /static/css and /static/js respectively)
-custom_css = ["blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
+# # Link custom CSS and JS assets
+# #   (relative to /static/css and /static/js respectively)
+custom_css = [] #"blue.css"] # from https://github.com/rbind/apreshill/tree/master/static/css
 custom_js  = []
 
 [[slogan_columns]]

@@ -22,11 +22,12 @@ url_video = ""
 [[authors]]
     name = "Colin P. Please"
     is_member = true
+    link = "/please"
 [[authors]]
     name = "Alain Goriely"
     is_member = false
 [[authors]]
     name = "S. Jonathan Chapman"
     is_member = true
+    link = "/chapman"
 +++
-
