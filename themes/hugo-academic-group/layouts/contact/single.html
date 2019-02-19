@@ -15,6 +15,13 @@
             <span>{{ . | safeHTML }}</span>
         {{ end }}
     </div>
+
+    	<div class = "row">
+
+    		<div class="article-style">
+    		    {{ .Content }}
+    		</div>
+    	</div>
     {{ if $.Site.Params.map }}
         <div class="d-none">
             <input id="map-provider" value="{{ $.Site.Params.map }}">
