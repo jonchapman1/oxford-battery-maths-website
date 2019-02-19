@@ -56,14 +56,14 @@ header{
 }
 
 .slogan-column {
-    text-align: center;	
-    display: block; 	
-    margin-left: auto; 
-    margin-right: auto; 
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
-.row:after, 
+.row:after,
 .row:before {
     content: " ";
     display: table;
@@ -666,14 +666,14 @@ section#projects.home-section .project-tags {
 
 /* .sponsors { */
 /*     text-align: center; */
-/*     vertical-align: bottom; */ 
+/*     vertical-align: bottom; */
 /* } */
 
 .sponsors {
   display: flex;
   justify-content: center;
-  align-items: center; 
-  margin-bottom: 30px; 
+  align-items: center;
+  margin-bottom: 30px;
 }
 
 /*************************************************
@@ -777,7 +777,6 @@ footer a#back_to_top i {
     -webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
-
 nav#navbar-main li {
     font-size: 16px;
 }
