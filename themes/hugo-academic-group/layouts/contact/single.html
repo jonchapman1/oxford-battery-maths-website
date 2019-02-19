@@ -14,9 +14,17 @@
 	</div>
 </header>
 <div class="container">
+    {{ range $.Params.contact_member }}
     <div class="row">
-        {{ with .Site.Params.contact.text }}{{ . | markdownify }}{{ end }}
+      <h2> {{ .name }} </h2>
+      {{ if .main_contact}}
+          <p> Main contact </p>
+      {{ end }}
+      <i class="fa fa-envelope fa-fw" aria-hidden="true"></i>
+      <span><a href="mailto:{{ .email }}">{{ .email }}</a></span>
     </div>
+    {{ end }}
+
     <div class="row">
         <h2>Address</h2>
         {{ with .Site.Params.address }}
