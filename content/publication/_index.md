@@ -1,4 +1,6 @@
 +++
+title = "Publications"
+
 # Date formatting
 show_date = true
 date_format = "January 2006"

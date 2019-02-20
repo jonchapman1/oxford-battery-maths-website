@@ -2,7 +2,7 @@
 bio = "Matt is a Hooke Research Fellow at the Mathematical Institute at the University of Oxford."
 date = "2016-07-12T15:52:22+02:00"
 id = "mhennessy"
-interests = ["Mathematical modelling", "Continuum mechanics", "Nonlinear poroelasticity", "Patterning in complex materials", "Phase transformations", "Nanoscale heat transfer"]
+interests = ["Mathematical modelling", "Continuum mechanics", "Nonlinear poroelasticity", "Patterning of complex and functional materials", "Nanoscale heat transfer", "Lithium-ion batteries"]
 name = "Dr Matthew G. Hennessy"
 portrait = "/portraits/hennessy_photo.jpeg"
 short_bio = "Matt is a Hooke Research Fellow at the Mathematical Institute at the University of Oxford. His current focus is on using asymptotic methods to derive simplified models for lithium-ion batteries."
@@ -52,6 +52,6 @@ personal_website = "https://www.maths.ox.ac.uk/people/matthew.hennessy"
     role = "Hooke Research Fellow"
 
 +++
-Matt is currently a Hooke Research Fellow at the Mathematical Institute at the University of Oxford. From 2016-2018, he was a Marie Skłodowska-Curie Fellow at the Centre de Recerca Matematica just outside of Barcelona and. From 2014-2016 he was a post-doctoral research associate in the Department of Chemical Engineering at Imperial College London.
+Matt is currently a Hooke Research Fellow at the Mathematical Institute at the University of Oxford. From 2016-2018, he was a Marie Skłodowska-Curie Fellow at the Centre de Recerca Matematica just outside of Barcelona. From 2014-2016 he was a post-doctoral research associate in the Department of Chemical Engineering at Imperial College London.
 
-Matt is interested in developing mathematical models of physical systems involving continuum mechanics, heat and mass transport, and interfacial phenomena. Once a suitable model has been formulated, it is analysed using a combination of asymptotic and numerical methods. He has particular interest in structure formation in complex media; instability-driven patterning; nonlinear poroelasticity; swelling of hydrogels and polymer networks; surface growth; nanoscale heat transfer and phase change; and lithium-ion battery modelling.
+Matt is interested in developing mathematical models of physical systems involving continuum mechanics, heat and mass transport, and interfacial phenomena, and analysing such models using asymptotic and numerical methods. He has particular interest in structure formation in complex media; instability-driven patterning; nonlinear poroelasticity; swelling of hydrogels and polymer networks; surface growth; nanoscale heat transfer and phase change; and lithium-ion battery modelling.

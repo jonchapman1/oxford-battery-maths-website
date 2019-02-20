@@ -1,38 +1,59 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
+<header class="">
+	<div class="header-content">
+		<div class="container">
+			<div class="header-content-inner">
+				<h1 style="text-align: left">Contact</h1>
+			</div>
+		</div>
+	</div>
+</header>
 <div class="container">
-    <div align="center">
-        <h1>{{ with .Site.Params.contact.title }}{{ . | markdownify }}{{ end }}</h1>
-    </div>
-    <div class="row">
-        {{ with .Site.Params.contact.text }}{{ . | markdownify }}{{ end }}
-    </div>
-    <div class="row">
-        <h2>Address</h2>
-        {{ with .Site.Params.address }}
-            <i class="fa fa-map-marker fa-fw" aria-hidden="true"></i>
-            <span>{{ . | safeHTML }}</span>
-        {{ end }}
-    </div>
+    <!-- <p> -->
+    <!--     {{ with .Site.Params.contact.text }}{{ . | markdownify }}{{ end }} -->
+    <!-- </p> -->
+    <!-- <h2>Address</h2> -->
+    <!--     {{ with .Site.Params.address }} -->
+    <!--         <i class="fa fa-map-marker fa-fw" aria-hidden="true"></i> -->
+    <!--         <span>{{ . | safeHTML }}</span> -->
+    <!--     {{ end }} -->
 
-    	<div class = "row">
 
-    		<div class="article-style">
-    		    {{ .Content }}
-    		</div>
-    	</div>
-    {{ if $.Site.Params.map }}
-        <div class="d-none">
-            <input id="map-provider" value="{{ $.Site.Params.map }}">
-            <input id="map-lat" value="{{ $.Site.Params.latitude }}">
-            <input id="map-lng" value="{{ $.Site.Params.longitude }}">
-            <input id="map-dir" value="{{ $.Site.Params.address }}">
-            <input id="map-zoom" value="{{ $.Site.Params.zoom | default "15" }}">
-            <input id="map-api-key" value="{{ $.Site.Params.map_api_key }}">
-        </div>
-    <div id="map"></div>
+		<div class="row">
+    {{ range $.Params.contact }}
+				<div class="col-xs-12 col-md-6">
+			      <h2> {{ .name }} </h2>
+			      <p>
+								Email:
+								{{ if  .email }}
+										<a href="mailto:{{ .email }}">{{ .email }}</a>
+								{{ else if .email_text}}
+										{{ with .email_text }}{{ . | markdownify }}{{ end }}
+								{{ end }}
+								<br>
+				      	Office: {{ .office }} <br>
+				      	Phone: {{ .phone }}
+						</p>
+				</div>
     {{ end }}
+		</div>
+
+    <div class="row">
+				<div class="col-xs-12">
+		        <h2>Address</h2>
+		        {{ with .Site.Params.address }}
+		            <i class="fa fa-map-marker fa-fw" aria-hidden="true"></i>
+		            <span>{{ . | safeHTML }}</span>
+		        {{ end }}
+				</div>
+    </div>
+
+
+		<div class="article-style">
+		    {{ .Content }}
+		</div>
 </div>
 
 {{ partial "footer_container.html" . }}
