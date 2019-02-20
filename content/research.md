@@ -1,3 +1,8 @@
++++
+title = "Research"
++++
+
+
 # Modo est
 
 ## Non sub haedum tenet
