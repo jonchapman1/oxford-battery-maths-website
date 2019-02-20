@@ -27,6 +27,10 @@ twitter = ""
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+# [logo]
+#   link = "https://www.maths.ox.ac.uk/"
+#   image = "oxford-logo.png"
+#   name = "University logo"
 logo = "oxford-logo.png"
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )

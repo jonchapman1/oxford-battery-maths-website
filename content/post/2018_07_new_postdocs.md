@@ -12,7 +12,7 @@ title = "Three new postdocs"
    link = "/please"
 +++
 
-The group is looking forward to welcoming three new postdoctoral researchers, [Matt Hennessy](/member/mhennessy), [Toby Kirk](/member/tkirk) and [Robert Timms](/member/rtimms).
+The group is looking forward to welcoming three new postdoctoral researchers, [Matt Hennessy](/member/mhennessy), [Toby Kirk](/member/tobykirk) and [Robert Timms](/member/rtimms).
 
 ## Matt Hennessy
 

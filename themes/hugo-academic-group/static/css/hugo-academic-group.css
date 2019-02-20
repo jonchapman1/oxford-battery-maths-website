@@ -14,7 +14,7 @@ html {
 
 *,
 *::after{
-	box-sizing: inherit; 
+	box-sizing: inherit;
 },
 *::before {
     box-sizing: inherit;
@@ -89,7 +89,7 @@ body {
     padding-top: 0;
     counter-reset: captions;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     body {
         /* Offset body content by navbar height. */
         margin-top: 51px;
@@ -209,7 +209,7 @@ span.darknav {
     background-color: rgb(255, 255, 255);
     padding: 60px 0 60px 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .home-section {
         padding: 60px 0 60px 0;
     }
@@ -219,7 +219,7 @@ span.darknav {
     padding: 60px 0 60px 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .home-section:first-of-type {
         padding: 60px 0 60px 0;
     }
@@ -476,7 +476,7 @@ ul.share li:hover .fa {
     margin: 0px 0px 0px 10px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .article-style figure.left-inline {
         display: block;
         float: none;
@@ -661,7 +661,7 @@ section#projects.home-section .project-tags {
     -moz-background-size: cover;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .project-picture {
         display: block;
     }
@@ -837,7 +837,7 @@ nav#navbar-main li {
     text-decoration: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .navbar {
         min-height: 50px !important;
     }
