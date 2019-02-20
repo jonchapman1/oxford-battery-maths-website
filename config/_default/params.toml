@@ -209,7 +209,7 @@ custom_js  = []
 [contact]
   enable = true
   title = "Contact"
-  text = "Individual contact information is available through [personal pages](/member/)"
+  # text = "Individual contact information is available through [personal pages](/member/)"
   subtitle = ""
   autolink = false  # Automatically link email and phone?
 
