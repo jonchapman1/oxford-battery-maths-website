@@ -21,3 +21,5 @@ Matt is joining the group from Barcelona, where he held a Marie Skłodowska-Curi
 ## Toby Kirk
 
 ## Robert Timms
+
+Robert is joining the group from the University of East Anglia, Norwich, where he completed his PhD. During his PhD Robert worked on problems related to the safe handling of explosive materials, and developed mathematical models describing the response of energetic materials to mechanical impacts which coupled solid mechanics, chemistry and heat flow. He plans to focus on developing coupled electrochemical and thermal models of lithium-ion batteries to understand how a cell's geometry and design affects its operation.
