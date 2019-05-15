@@ -7,32 +7,14 @@
     </div> -->
     <div class="row sponsors d-flex h-100">
 
-	<div class="col-md-2 col-md-offset-1 center-block">
-            <a href="www.google.com"><img src="/img/sponsors/EPSRC-logo.jpg" alt="ESPRC" class="img-responsive center-block" height="300" width="400"></a>
-	</div>
 
-	<div class="col-md-2 center-block">
-            <a href="www.google.com"><img src="/img/sponsors/TFI-logo.png" alt="ESPRC" class="img-responsive center-block" height="200" width="300"></a>
-	</div>
 
-	<div class="col-md-2 center-block">
-            <a href="www.google.com"><img src="/img/sponsors/Siemens-Logo.png" alt="ESPRC" class="img-responsive center-block" height="200" width="300"></a>
-	</div>
-
-	<div class="col-md-2 center-block">
-            <a href="www.google.com"><img src="/img/sponsors/bboxx-logo.png" alt="ESPRC" class="img-responsive center-block" height="100" width="90"></a>
-	</div>
-
-	<div class="col-md-2 center-block">
-            <a href="www.google.com"><img src="/img/sponsors/nexeon-logo.jpg" alt="ESPRC" class="img-responsive center-block" height="200" width="200"></a>
-	</div>
-
-        <!-- {{$sponsors_len := len .Site.Params.sponsors}} -->
-        <!-- {{ range .Site.Params.sponsors }} -->
-        <!-- <div class="col-md-2 center-block"> -->
-        <!--     <a href="{{.link}}"><img src="/img/sponsors/{{ .image }}" alt="{{.name}}" class="img-responsive center-block" height="200" width="200"></a> -->
-        <!-- </div> -->
-        <!-- {{ end }} -->
+         {{$sponsors_len := len .Site.Params.sponsors}} 
+         {{ range .Site.Params.sponsors }} 
+         <div class="col-md-2 center-block"> 
+             <a href="{{.link}}"><img src="/img/sponsors/{{ .image }}" alt="{{.name}}" class="img-responsive center-block" height="200" width="200"></a> 
+        </div> 
+        {{ end }} 
     </div>
 </div>
 {{ end }}

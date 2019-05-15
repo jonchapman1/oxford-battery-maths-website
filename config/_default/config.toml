@@ -9,7 +9,7 @@ title = "Oxford Mathematical Modelling Battery Group"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.maths.ox.ac.uk/groups/battery"
+baseURL = "http://people.maths.ox.ac.uk/chapman/battery"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -28,11 +28,14 @@ disqusShortname = ""
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic-group"
 layoutdir = "themes/hugo-academic-group/layouts"
-publishdir = "public"
+#publishdir = "public"
+publishdir = "battery"
+
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
 canonifyurls = true
+relativeURLs = true
 math = true
 
 # Get last modified date for content from Git?
