@@ -3,44 +3,8 @@ title = "Research"
 +++
 
 
-# Modo est
+The Mathematical Institute is home to a vibrant battery research community, encompassing a number of research topics including asymptotic analysis and numerical methodologies applied to the partial differential equations that describe electrochemical behaviour, mechanics of cell charge and discharge, and thermal effects during battery operation. The group is made up of DPhil students Scott Marquis, Valentin Sulzer and Alexander Van-Brunt, postdocs Toby Kirk and Robert Timms, Hooke Fellow Matthew Hennessy, and Professors Jon Chapman and Colin Please. Within Oxford, our research is collaborative with engineering groups led by Professors Dave Howey and Charles Monroe, and we also benefit from a number of industrial links, working with national and international partners BBOX, Nexeon and Siemens. Oxford University is a founding partner of the Faraday Institution – the UK’s independent institute for electrochemical energy storage research. This partnership has allowed us to develop exciting research links with a number of Universities and industrial bodies across the UK.
 
-## Non sub haedum tenet
+A large portion of our research focuses on lithium-ion batteries, which are one of the most widely used technologies for energy storage, with applications ranging from portable electronics to electric vehicles. Due to their popularity, there is a continued interest in the development of mathematical models of lithium-ion batteries for many different purposes. These models can be broadly categorised into two groups: equivalent circuit models, which aim to describe battery behaviour by making an analogy with traditional circuit components such as resistors and capacitors; and electrochemical models, which aim to describe the physical processes of mass and charge transport within the cell. Equivalent circuit models can be solved rapidly on cheap computing hardware, making them the ideal choice for real-time battery management applications. However, they provide limited physical insight into battery behaviour. On the other hand, electrochemical models are computationally expensive, but provide a much more detailed description of the internal physics of battery operation which can be used for improving cell design.
 
-Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium
-*vaticinor fulminis*, a dixere attrahit generisque tamen?
-
-- Petit invergens iram praetendat iam
-- Mecum res curva iunctura silvis hoc leonum
-- Iacent gemitum quos
-
-## Non est duram mitis sonat proculcat tumulos
-
-Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples
-prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus
-descendere, patriisque ieiunia.
-
-## Harenas sanguine pennas fui
-
-Gentes aeris, sua mors dictis torvo colorem regione fugit principio Panopeusque
-regni florentis vidisse. [Profusis](http://motu-tutus.io/exerceor-vestigia.php)
-unda regnat ultima habitus cava tympana sudem et Aesonides fecit. Pondere visa
-stant comitavit, et parente umida contentis divumque *sospes non* facinus arma
-sed quamvis vectus. Fera nec uno erat, poterat censu nitebat, cognita simulacra?
-Fumis patuisset tantum et tanta ad matris enodisque vestros exigui.
-
-> Tamen coniectum sumpserat comites dura, amore exanimes iussit At? Cuncta
-> tellus ad turbine lupos. Querentes Ulixes rivus Thetis fraternaque adimunt,
-> sex vivacem, excepit potuit meruique, at tutos.
-
-## Diversaque Medusae probatur sequens
-
-Ea pruinosas verba lapidem, sustulit. Una quicquam nymphis adultera
-[maturus](http://www.corripuere.net/toto) fuimusve lumina occidimus subiti
-demoliturque pelagi.
-
-Satis omni hunc et quondam non, non curat adlabimur? Vocem oves curvum aptumque.
-Addendum tamen; parensque multi locum palmas tenent dubites sacra! Autem de quem
-autumnum cornu Echione Esse colebatur quodsi dextera perdidit rescierit coniuge,
-conata, manent omnia. Illa est fecerat nubila vix semel tetigere sit sine
-inguina.
+Starting with complicated electrochemical models and exploiting asymptotic analysis, we systematically derive simplified physics-based models, which provide a useful theoretical middle ground to support battery management, on-line diagnostics, and cell design. By exploiting physically relevant limits we can a develop a suite of simplified models, whose complexity and fidelity can be selected to best meet the user’s needs. The approach provides a general framework for developing so-called reduced-order models which can be extended to incorporate additional important physical effects such as mechanics (how does the cell swell and shrink during charge and discharge?), thermal effects (how does the battery heat up during use?), and degradation mechanisms (what causes the cell to lose capacity over its lifetime?).
