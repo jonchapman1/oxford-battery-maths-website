@@ -2,10 +2,10 @@
 bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "sjchapman"
-interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
+interests = ["Physical modelling", "Model reduction", "Asymptotic methods"]
 name = "Jon Chapman"
 portrait = "/portraits/chapman.jpg"
-short_bio = "My short bio. I am Head Honcho."
+short_bio = "Jon Chapman is the Professor of Mathematics and its Applications. His research interests centre on mathematical modelling and asymptotic analysis, with applications in industry and the physical and biological sciences, using mainly partial differential equations."
 short_name = ""
 title = "Jon Chapman"
 position = "principal investigator"
@@ -14,48 +14,41 @@ personal_website = "http://people.maths.ox.ac.uk/chapman/"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:chapman@maths.ox.ac.uk"
 
-[[social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/"
+#[[social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = "//twitter.com/"
 
 [[social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.nl/"
+    link = "https://scholar.google.co.uk/citations?user=IxvRf1YAAAAJ&hl=en"
 
-[[social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/"
+#[[social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = "//github.com/"
 
 [[education]]
-    course = "MSc in Computer Science"
-    institution = 'Harvard University'
-    year = 2004
+    course = "DPhil"
+    institution = 'University of Oxford'
+    year = 1992
 
 [[organizations]]
-    name = "Harvard University"
-    role = "Full Professor"
+    name = "University of Oxford"
+    role = "Professor of Mathematics and its Applications"
 
 +++
-You can write $\LaTeX$ and *Markdown* here.
 
-# Minyae adgnoscitque fugiebat parentis ausum superos huius
+Jon Chapman was appointed to the 
+Chair in Mathematics and its Applications in 1999.
 
-## Ait erili meruisse iactatis omnibus erat
+His research interests centre on mathematical modelling and asymptotic
+analysis, with applications in industry and the physical and
+biological sciences, using mainly partial differential equations.
+In the battery area he is interested in the modelling and analysis of both lithium ion and lead acid batteries, including mechanical stress due to swelling, thermal effects, and  degradation mechanisms, as well as electrochemical effects.
 
-Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori
-verba fugisse **mira mortisque leones**! Prior sui liquidissimus leve
-properandum totidem studio, refert *magno*, me quibus. Sternitur discordia
-summaque, si deus in undam et vulnere dirusque est felices pallam miserere
-curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant,
-gerebat est edam plura. Armigerae Cyllenius freti vaga adeunda, rura undas,
-equarum ubi non laetoque pice.
 
-> Ultusque saltem crimine palluit virgineos deum nec pectusque oculis [que quos
-> lactea](http://habenas.com/.php) quae? Animus feriendus ductae! *Theron* sua
-> amans, est nulla cadavera, aquarum servavit quoque missus, hac texit videre,
-> valuere est erant?
+

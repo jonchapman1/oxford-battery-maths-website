@@ -4,26 +4,26 @@ title = "Contact"
 
 [[contact]]
   name = "Professor Jon Chapman"
-  office = "S2.03, Mathematical Institute"
-  phone = "+44 0224 324 248 (department) or +44 0224 324 248 (college)"
+  office = "S2.01, Mathematical Institute"
+  phone = "+44 1865 273525 (reception)"
   email = "chapman@maths.ox.ac.uk"
 
 [[contact]]
   name = "Professor Colin Please"
   office = "S2.03, Mathematical Institute"
-  phone = "+44 0224 324 248 (department) or +44 0224 324 248 (college)"
+  phone = "+44 1865 273525 (reception)"
   email = "please@maths.ox.ac.uk"
 
 [[contact]]
   name = "Postdoctoral researchers"
-  office = "S2.03, Mathematical Institute"
-  phone = "+44 0224 324 248 (department)"
+  office = "S3.09, Mathematical Institute"
+  phone = "+44 1865 273525 (reception)"
   email_text = "see [personal pages](/member/)"
 
 [[contact]]
   name = "Graduate students"
-  office = "S2.03, Mathematical Institute"
-  phone = "+44 0224 324 248 (department)"
+  office = "S2.06, Mathematical Institute"
+  phone = "+44 1865 273525 (reception)"
   email_text = "see [personal pages](/member/)"
 +++
 
