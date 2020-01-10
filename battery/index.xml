@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxford Mathematical Modelling Battery Group</title>
+    <link>http://people.maths.ox.ac.uk/chapman/battery/</link>
+    <description>Recent content on Oxford Mathematical Modelling Battery Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Valentin Sulzer, 2019 ([source](https://github.com/tinosulzer/oxford-battery-maths-website))</copyright>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.maths.ox.ac.uk/chapman/battery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asymptotic reduction of a porous electrode model for lithium-ion batteries</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lead-acid papers</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2019_02_lead_acid_papers/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2019_02_lead_acid_papers/</guid>
+      <description>Valentin Sulzer, Jon Chapman and Colin Please have submitted a two-part paper to ECS on &amp;lsquo;Faster Lead-Acid Battery Simulations from Porous-Electrode Theory&amp;rsquo;, now available on ArXiv [part I, part II].
+I. Physical Model An isothermal porous-electrode model of a discharging lead-acid battery is presented, which includes an extension of concentrated-solution theory that accounts for excluded-volume effects, local pressure variation, and a detailed microscopic water balance. The approach accounts for three typically neglected physical phenomena: convection, pressure diffusion, and variation of liquid volume with state of charge.</description>
+    </item>
+    
+    <item>
+      <title>Faster Lead-Acid Battery Simulations from Porous-Electrode Theory: I. Physical Model</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019a/</link>
+      <pubDate>Tue, 05 Feb 2019 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Lead-Acid Battery Simulations from Porous-Electrode Theory: II. Asymptotic Analysis</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019b/</link>
+      <pubDate>Tue, 05 Feb 2019 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogenization of a Shrinking Core Model for Gas-Solid Reactions in Granular Particles</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/sloman2019/</link>
+      <pubDate>Tue, 05 Feb 2019 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/sloman2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speakers at ICIAM</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_iciam/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_iciam/</guid>
+      <description>Several members of the Oxford Mathematical Modelling Battery Group have been accepted to give talks at the International Congress on Industrial and Applied Mathematics held in July 2019 in Valencia, Spain.
+DPhil students Scott Marquis, Ian Roper and Valentin Sulzer will be talking about their recent research towards their DPhil projects; Post-doctoral fellows Matt Hennessy, Toby Kirk and Robert Timms will be talking about the research they have carried out so far at Oxford and faculty member Jon Chapman will be talking about the impact of the battery research at the Mathematical Institute.</description>
+    </item>
+    
+    <item>
+      <title>Speakers at BAMC</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_bamc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_bamc/</guid>
+      <description>Several members of the Oxford Mathematical Modelling Battery Group have been accepted to give talks at the British Applied Mathematics Colloquium 2019 held in April 2019 in Bath. The minisymposium was organised by collaborator Jamie Foster.
+DPhil student Scott Marquis will be talking about his recent research towards in lithium-ion battery degradation. Post-doctoral fellow Matt Hennessy will be talking about asymptotically reducing models for lithium-ion batteries, Toby Kirk will be talking about his research in particle size distributions and Robert Timms will be talking about incorporating temperature differences into lithium-ion models.</description>
+    </item>
+    
+    <item>
+      <title>Three-Minute Thesis competition</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2018_11_three-minute/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2018_11_three-minute/</guid>
+      <description> Ian Roper and Valentin Sulzer took part in (and Jon Chapman judged!) the Maths Institute Three-Minute Thesis competition, organised by the SIAM Student Chapter. A fantastic event showcasing the breadth of applied maths research in the department!
+Ian - Silicon Anodes for Lithium-ion Batteries    Tino - Smarter Batteries for a Clean Energy Future    </description>
+    </item>
+    
+    <item>
+      <title>An experimentally validated equivalent circuit model for lithium-ion batteries systematically derived from porous electrode theory</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018b/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three new postdocs</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2018_07_new_postdocs/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2018_07_new_postdocs/</guid>
+      <description>The group is looking forward to welcoming three new postdoctoral researchers, Matt Hennessy, Toby Kirk and Robert Timms.
+Matt Hennessy Matt is joining the group from Barcelona, where he held a Marie Skłodowska-Curie Individual Fellowship to work on mathematical modelling of nanoscale heat transfer and phase change with Tim Myers. During his time in Barcelona he began using asymptotic methods to derive simplified models of lithium-ion batteries. He plans to continue this work in Oxford while also focusing on issues relating to heat generation, degradation, short circuiting, and nanowire-based anodes.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/project/deeplearning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/project/deeplearning/</guid>
+      <description>Et sensus uncos Troiaeque mori candidaque ostentis Litusque praemia Lorem markdownum natus, regis cecidere. Sinebat pudoris terque si commune pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat quoniam eunt: graves. Teleste est colebat iamque ullis terra neque limen Nabataeus viribus ait.
+encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compressionAlignment), 324317, adsl_application); if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) { eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit)); ddrEcc(maximizeRw, appletPersonal); hdd_null = pretest_window_rup; } else { system += hdd + 396409 - firewallLanMedia; } var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql + javascriptCtrPppoe.</description>
+    </item>
+    
+    <item>
+      <title>Wide Learning</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/project/widelearning/</link>
+      <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/project/widelearning/</guid>
+      <description>Et sensus uncos Troiaeque mori candidaque ostentis Litusque praemia Lorem markdownum natus, regis cecidere. Sinebat pudoris terque si commune pendebat ubi dubio cibique pontum virentem Nestora gaudia decebat quoniam eunt: graves. Teleste est colebat iamque ullis terra neque limen Nabataeus viribus ait.
+encoding_install_autoresponder = ultra.osiComputer(host.ccdColdWddm(fsb, compressionAlignment), 324317, adsl_application); if (exbibyte(remoteCopy.pplVirtualUrl(3, hardOopBoot), solid, 46)) { eide_podcast(trinitron.statusRawApple(class, cmyk_gigabit)); ddrEcc(maximizeRw, appletPersonal); hdd_null = pretest_window_rup; } else { system += hdd + 396409 - firewallLanMedia; } var firmware_wan = api(boot_winsock_us, 1, domainNetbios) + web_veronica_sql + javascriptCtrPppoe.</description>
+    </item>
+    
+    <item>
+      <title>Colin Please</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/please/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/please/</guid>
+      <description>Colin is Professor of Applied Mathematics. He is interested in modelling of many practical industrial problems using continuum models, in particular in using asymptotic methods to derive reduced models that can be readily interpreted and easily parametrised.</description>
+    </item>
+    
+    <item>
+      <title>Dr Matthew G. Hennessy</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/mhennessy/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/mhennessy/</guid>
+      <description>Matt is currently a Hooke Research Fellow at the Mathematical Institute at the University of Oxford. From 2016-2018, he was a Marie Skłodowska-Curie Fellow at the Centre de Recerca Matematica just outside of Barcelona. From 2014-2016 he was a post-doctoral research associate in the Department of Chemical Engineering at Imperial College London.
+Matt is interested in mathematical modelling physical systems using continuum mechanics. He has particular interest in: soft matter, polymer networks, and hydrogels; instability-driven patterning; phase change and phase separation; poroelasticity; nanoscale heat transfer; and lithium-ion batteries.</description>
+    </item>
+    
+    <item>
+      <title>Dr Robert Timms</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/rtimms/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/rtimms/</guid>
+      <description>Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution.
+Robert gained his PhD from the University of East Anglia in 2018, where he worked on problems related to the safe handling of energetic materials. His research utilised asymptotic and numerical techniques to develop and solve partial differential equation models describing the response of such materials to external mechanical stimuli.</description>
+    </item>
+    
+    <item>
+      <title>Dr Toby L. Kirk</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/tobykirk/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/tobykirk/</guid>
+      <description>Toby is currently a Postdoctoral Research Assistant in the Mathematical Institute at the University of Oxford, and part of the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution. His current research is using asymptotic methods to account for electrode heterogeneity in lithium-ion battery models.
+He earned his PhD in fluid dynamics under Prof. D. T. Papageorgiou at Imperial College London, studying modern micro-structured (i.e. superhydrophobic) slip surfaces. Using asymptotic and complex methods, he investigated their possible implications for viscous flows, convection, and the nonlinear interfacial dynamics of thin films.</description>
+    </item>
+    
+    <item>
+      <title>Jon Chapman</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/chapman/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/chapman/</guid>
+      <description>Jon Chapman was appointed to the Chair in Mathematics and its Applications in 1999.
+His research interests centre on mathematical modelling and asymptotic analysis, with applications in industry and the physical and biological sciences, using mainly partial differential equations. In the battery area he is interested in the modelling and analysis of both lithium ion and lead acid batteries, including mechanical stress due to swelling, thermal effects, and degradation mechanisms, as well as electrochemical effects.</description>
+    </item>
+    
+    <item>
+      <title>Some comments on the Butler-Volmer equation for modeling Lithium-ion batteries</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/ramos2015a/</link>
+      <pubDate>Fri, 20 Mar 2015 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/ramos2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of constraints on axial growth reduction of cylindrical Li-ion battery electrode particles</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015b/</link>
+      <pubDate>Tue, 13 Jan 2015 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining mechanical and chemical effects in the deformation and failure of a cylindrical electrode particle in a Li-ion battery</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015combining/</link>
+      <pubDate>Thu, 01 Jan 2015 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale modelling and analysis of lithium-ion battery charge and discharge</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/richardson2012b/</link>
+      <pubDate>Sun, 01 May 2011 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/richardson2012b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Li&#43; Ion Battery Electrode Properties</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/zhang2009a/</link>
+      <pubDate>Thu, 28 May 2009 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/zhang2009a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Alkaline Battery Cathodes: A Simplified Model for Porous Manganese Oxide Particle Discharge</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2005/</link>
+      <pubDate>Fri, 12 Aug 2005 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of primary alkaline battery cathodes: A simplified model</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/johansen2006a/</link>
+      <pubDate>Mon, 25 Jul 2005 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/johansen2006a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Alkaline Battery Cathodes: A Three-Scale Model</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2000a/</link>
+      <pubDate>Mon, 24 Jul 2000 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2000a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/vacancy/vacancy1/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/contact/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Ian Roper</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/roper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/roper/</guid>
+      <description>Ian&amp;rsquo;s research focuses on mathematically modelling anode particles containing silicon. Silicon has a large capacity for lithium but expands up to four times its original size upon lithiation. This causes high stresses inside the anode, which can cause cracks and result in severe capacity fade. Ian&amp;rsquo;s mathematical model incorporates solid mechanics coupled to a diffusion model for the lithium transport to research the interplay between the lithiation and the induced stresses.</description>
+    </item>
+    
+    <item>
+      <title>PyBaMM </title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/software/</guid>
+      <description>PyBaMM Python Battery Mathematical Modelling Pybamm is a unique and versatile battery modelling package for python produced by a consortium of academics connected through the Faraday Institution. PyBaMM&amp;rsquo;s development has been driven by a need within the battery community for a modelling software which is reliable, flexible, and efficient. The Oxford Battery Modelling group has played a central role in the core development of PyBaMM, drawing upon our unique skill base to satisfy the key requirements of the battery community.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/research/</guid>
+      <description>The Mathematical Institute is home to a vibrant battery research community, encompassing a number of research topics including asymptotic analysis and numerical methodologies applied to the partial differential equations that describe electrochemical behaviour, mechanics of cell charge and discharge, and thermal effects during battery operation. The group is made up of DPhil students Scott Marquis, Ian Roper, Valentin Sulzer and Alexander Van-Brunt, postdocs Toby Kirk and Robert Timms, Hooke Fellow Matthew Hennessy, and Professors Jon Chapman and Colin Please.</description>
+    </item>
+    
+    <item>
+      <title>Scott Marquis</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/scottmarquis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/scottmarquis/</guid>
+      <description>Scott is a DPhil student in Applied Mathematics. He is working in collaboration with Siemens to develop models of the long-term degradation of lithium-ion batteries. His research focuses on the development of novel mathematical models of key degradataion mechanisms (e.g. solid electrolye interphase (SEI) growth) and the employment of asymptotic methods to systematically reduce lithium-ion battery models. By integrating his degradation and reduced models he aims to provide a fast and efficient method for studying long-term degradation.</description>
+    </item>
+    
+    <item>
+      <title>Valentin Sulzer</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/sulzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/sulzer/</guid>
+      <description>Tino is a DPhil Candidate in Applied Mathematics at the University of Oxford. His research is in industrial mathematics, with a focus on electrochemical modelling and asymptotic analysis. For his DPhil, he is working with BBOXX to model charge and discharge of lead-acid batteries for off-grid applications in sub-Saharan Africa.
+He is am passionate about using mathematical modelling to create smarter batteries and accelerate the development of renewable energy solutions. In particular, he believes that simplified electrochemical models, such as the single-particle model, are crucial to bridge the gap between equivalent-circuit models (fast but physically inaccurate) and physics-based models (accurate but prohibitively complex).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Oxford Mathematical Modelling Battery Group</title>
+    <link>http://people.maths.ox.ac.uk/chapman/battery/post/</link>
+    <description>Recent content in Posts on Oxford Mathematical Modelling Battery Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Valentin Sulzer, 2019 ([source](https://github.com/tinosulzer/oxford-battery-maths-website))</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.maths.ox.ac.uk/chapman/battery/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lead-acid papers</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2019_02_lead_acid_papers/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2019_02_lead_acid_papers/</guid>
+      <description>Valentin Sulzer, Jon Chapman and Colin Please have submitted a two-part paper to ECS on &amp;lsquo;Faster Lead-Acid Battery Simulations from Porous-Electrode Theory&amp;rsquo;, now available on ArXiv [part I, part II].
+I. Physical Model An isothermal porous-electrode model of a discharging lead-acid battery is presented, which includes an extension of concentrated-solution theory that accounts for excluded-volume effects, local pressure variation, and a detailed microscopic water balance. The approach accounts for three typically neglected physical phenomena: convection, pressure diffusion, and variation of liquid volume with state of charge.</description>
+    </item>
+    
+    <item>
+      <title>Speakers at ICIAM</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_iciam/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_iciam/</guid>
+      <description>Several members of the Oxford Mathematical Modelling Battery Group have been accepted to give talks at the International Congress on Industrial and Applied Mathematics held in July 2019 in Valencia, Spain.
+DPhil students Scott Marquis, Ian Roper and Valentin Sulzer will be talking about their recent research towards their DPhil projects; Post-doctoral fellows Matt Hennessy, Toby Kirk and Robert Timms will be talking about the research they have carried out so far at Oxford and faculty member Jon Chapman will be talking about the impact of the battery research at the Mathematical Institute.</description>
+    </item>
+    
+    <item>
+      <title>Speakers at BAMC</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_bamc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2019_01_bamc/</guid>
+      <description>Several members of the Oxford Mathematical Modelling Battery Group have been accepted to give talks at the British Applied Mathematics Colloquium 2019 held in April 2019 in Bath. The minisymposium was organised by collaborator Jamie Foster.
+DPhil student Scott Marquis will be talking about his recent research towards in lithium-ion battery degradation. Post-doctoral fellow Matt Hennessy will be talking about asymptotically reducing models for lithium-ion batteries, Toby Kirk will be talking about his research in particle size distributions and Robert Timms will be talking about incorporating temperature differences into lithium-ion models.</description>
+    </item>
+    
+    <item>
+      <title>Three-Minute Thesis competition</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2018_11_three-minute/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2018_11_three-minute/</guid>
+      <description> Ian Roper and Valentin Sulzer took part in (and Jon Chapman judged!) the Maths Institute Three-Minute Thesis competition, organised by the SIAM Student Chapter. A fantastic event showcasing the breadth of applied maths research in the department!
+Ian - Silicon Anodes for Lithium-ion Batteries    Tino - Smarter Batteries for a Clean Energy Future    </description>
+    </item>
+    
+    <item>
+      <title>Three new postdocs</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/post/2018_07_new_postdocs/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/post/2018_07_new_postdocs/</guid>
+      <description>The group is looking forward to welcoming three new postdoctoral researchers, Matt Hennessy, Toby Kirk and Robert Timms.
+Matt Hennessy Matt is joining the group from Barcelona, where he held a Marie Skłodowska-Curie Individual Fellowship to work on mathematical modelling of nanoscale heat transfer and phase change with Tim Myers. During his time in Barcelona he began using asymptotic methods to derive simplified models of lithium-ion batteries. He plans to continue this work in Oxford while also focusing on issues relating to heat generation, degradation, short circuiting, and nanowire-based anodes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Oxford Mathematical Modelling Battery Group</title>
+    <link>http://people.maths.ox.ac.uk/chapman/battery/publication/</link>
+    <description>Recent content in Publications on Oxford Mathematical Modelling Battery Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Valentin Sulzer, 2019 ([source](https://github.com/tinosulzer/oxford-battery-maths-website))</copyright>
+    
+	<atom:link href="http://people.maths.ox.ac.uk/chapman/battery/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asymptotic reduction of a porous electrode model for lithium-ion batteries</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Lead-Acid Battery Simulations from Porous-Electrode Theory: I. Physical Model</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019a/</link>
+      <pubDate>Tue, 05 Feb 2019 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Lead-Acid Battery Simulations from Porous-Electrode Theory: II. Asymptotic Analysis</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019b/</link>
+      <pubDate>Tue, 05 Feb 2019 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/sulzer2019b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homogenization of a Shrinking Core Model for Gas-Solid Reactions in Granular Particles</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/sloman2019/</link>
+      <pubDate>Tue, 05 Feb 2019 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/sloman2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimentally validated equivalent circuit model for lithium-ion batteries systematically derived from porous electrode theory</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018b/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/moyles2018b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some comments on the Butler-Volmer equation for modeling Lithium-ion batteries</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/ramos2015a/</link>
+      <pubDate>Fri, 20 Mar 2015 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/ramos2015a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of constraints on axial growth reduction of cylindrical Li-ion battery electrode particles</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015b/</link>
+      <pubDate>Tue, 13 Jan 2015 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining mechanical and chemical effects in the deformation and failure of a cylindrical electrode particle in a Li-ion battery</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015combining/</link>
+      <pubDate>Thu, 01 Jan 2015 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/chakraborty2015combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale modelling and analysis of lithium-ion battery charge and discharge</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/richardson2012b/</link>
+      <pubDate>Sun, 01 May 2011 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/richardson2012b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling Li&#43; Ion Battery Electrode Properties</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/zhang2009a/</link>
+      <pubDate>Thu, 28 May 2009 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/zhang2009a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Alkaline Battery Cathodes: A Simplified Model for Porous Manganese Oxide Particle Discharge</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2005/</link>
+      <pubDate>Fri, 12 Aug 2005 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling of primary alkaline battery cathodes: A simplified model</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/johansen2006a/</link>
+      <pubDate>Mon, 25 Jul 2005 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/johansen2006a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Alkaline Battery Cathodes: A Three-Scale Model</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2000a/</link>
+      <pubDate>Mon, 24 Jul 2000 16:37:31 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/publication/farrell2000a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

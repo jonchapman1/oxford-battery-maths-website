@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Oxford Mathematical Modelling Battery Group</title>
+    <link>http://people.maths.ox.ac.uk/chapman/battery/member/</link>
+    <description>Recent content in People on Oxford Mathematical Modelling Battery Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Valentin Sulzer, 2019 ([source](https://github.com/tinosulzer/oxford-battery-maths-website))</copyright>
+    
+	<atom:link href="http://people.maths.ox.ac.uk/chapman/battery/member/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colin Please</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/please/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/please/</guid>
+      <description>Colin is Professor of Applied Mathematics. He is interested in modelling of many practical industrial problems using continuum models, in particular in using asymptotic methods to derive reduced models that can be readily interpreted and easily parametrised.</description>
+    </item>
+    
+    <item>
+      <title>Dr Matthew G. Hennessy</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/mhennessy/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/mhennessy/</guid>
+      <description>Matt is currently a Hooke Research Fellow at the Mathematical Institute at the University of Oxford. From 2016-2018, he was a Marie Skłodowska-Curie Fellow at the Centre de Recerca Matematica just outside of Barcelona. From 2014-2016 he was a post-doctoral research associate in the Department of Chemical Engineering at Imperial College London.
+Matt is interested in mathematical modelling physical systems using continuum mechanics. He has particular interest in: soft matter, polymer networks, and hydrogels; instability-driven patterning; phase change and phase separation; poroelasticity; nanoscale heat transfer; and lithium-ion batteries.</description>
+    </item>
+    
+    <item>
+      <title>Dr Robert Timms</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/rtimms/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/rtimms/</guid>
+      <description>Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution.
+Robert gained his PhD from the University of East Anglia in 2018, where he worked on problems related to the safe handling of energetic materials. His research utilised asymptotic and numerical techniques to develop and solve partial differential equation models describing the response of such materials to external mechanical stimuli.</description>
+    </item>
+    
+    <item>
+      <title>Dr Toby L. Kirk</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/tobykirk/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/tobykirk/</guid>
+      <description>Toby is currently a Postdoctoral Research Assistant in the Mathematical Institute at the University of Oxford, and part of the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution. His current research is using asymptotic methods to account for electrode heterogeneity in lithium-ion battery models.
+He earned his PhD in fluid dynamics under Prof. D. T. Papageorgiou at Imperial College London, studying modern micro-structured (i.e. superhydrophobic) slip surfaces. Using asymptotic and complex methods, he investigated their possible implications for viscous flows, convection, and the nonlinear interfacial dynamics of thin films.</description>
+    </item>
+    
+    <item>
+      <title>Jon Chapman</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/chapman/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/chapman/</guid>
+      <description>Jon Chapman was appointed to the Chair in Mathematics and its Applications in 1999.
+His research interests centre on mathematical modelling and asymptotic analysis, with applications in industry and the physical and biological sciences, using mainly partial differential equations. In the battery area he is interested in the modelling and analysis of both lithium ion and lead acid batteries, including mechanical stress due to swelling, thermal effects, and degradation mechanisms, as well as electrochemical effects.</description>
+    </item>
+    
+    <item>
+      <title>Ian Roper</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/roper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/roper/</guid>
+      <description>Ian&amp;rsquo;s research focuses on mathematically modelling anode particles containing silicon. Silicon has a large capacity for lithium but expands up to four times its original size upon lithiation. This causes high stresses inside the anode, which can cause cracks and result in severe capacity fade. Ian&amp;rsquo;s mathematical model incorporates solid mechanics coupled to a diffusion model for the lithium transport to research the interplay between the lithiation and the induced stresses.</description>
+    </item>
+    
+    <item>
+      <title>Scott Marquis</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/scottmarquis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/scottmarquis/</guid>
+      <description>Scott is a DPhil student in Applied Mathematics. He is working in collaboration with Siemens to develop models of the long-term degradation of lithium-ion batteries. His research focuses on the development of novel mathematical models of key degradataion mechanisms (e.g. solid electrolye interphase (SEI) growth) and the employment of asymptotic methods to systematically reduce lithium-ion battery models. By integrating his degradation and reduced models he aims to provide a fast and efficient method for studying long-term degradation.</description>
+    </item>
+    
+    <item>
+      <title>Valentin Sulzer</title>
+      <link>http://people.maths.ox.ac.uk/chapman/battery/member/sulzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.maths.ox.ac.uk/chapman/battery/member/sulzer/</guid>
+      <description>Tino is a DPhil Candidate in Applied Mathematics at the University of Oxford. His research is in industrial mathematics, with a focus on electrochemical modelling and asymptotic analysis. For his DPhil, he is working with BBOXX to model charge and discharge of lead-acid batteries for off-grid applications in sub-Saharan Africa.
+He is am passionate about using mathematical modelling to create smarter batteries and accelerate the development of renewable energy solutions. In particular, he believes that simplified electrochemical models, such as the single-particle model, are crucial to bridge the gap between equivalent-circuit models (fast but physically inaccurate) and physics-based models (accurate but prohibitively complex).</description>
+    </item>
+    
+  </channel>
+</rss>
