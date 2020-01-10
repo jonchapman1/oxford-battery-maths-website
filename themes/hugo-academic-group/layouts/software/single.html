@@ -1,41 +1,56 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-<header class="">
-	<div class="header-content"> 
-		<div class="container"> 
-			<div class="header-content-inner"> 	
-				<div class="row d-flex h-100">  
-					<div class="col-md-4"> 
+<!-- <header class="">
+	<div class="header-content">
+		<div class="container">
+			<div class="header-content-inner">
+				<div class="row d-flex h-100">
+					<div class="col-md-4">
 						<a href = "{{ .Params.link }}">
-							<img src="/img/{{.Params.logo}}" class="img-responsive center-block" height=200 width = 400> 
+							<img src="/img/{{.Params.logo}}" class="img-responsive center-block" height=200 width = 400>
 						</a>
-					</div> 
+					</div>
 
-					<div id="github-logo-big" class="col-md-3 col-md-offset-5"> 
+					<div id="github-logo-big" class="col-md-3 col-md-offset-5">
 						<a href = "{{ .Params.link }}">
 							<img src="/img/GitHub_Logo_White.png" class="img-responsive center-block" height=200 width = 150>
-						</a> 
-					</div> 
+						</a>
+					</div>
 
-			</div> 
+			</div>
+		</div>
+	</div>
+</header> -->
+
+<header class="">
+	<div class="header-content">
+		<div class="container">
+			<div class="header-content-inner">
+				<h1 style="text-align: left">Software</h1>
+			</div>
 		</div>
 	</div>
 </header>
 
-<div class="container">
+<!-- <div class="container">
 
-	<div class = "row"> 
+	<div class="row">
 
 		<div class="article-style">
-		    {{ .Content }}
+			{{ .Content }}
 		</div>
 	</div>
+</div> -->
+
+<div class="container">
+	<article class="article" itemscope itemtype="http://schema.org/Article">
+		<div class="article-style" itemprop="articleBody">
+			{{ .Content }}
+		</div>
+	</article>
 </div>
 
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
-
-    	
-        

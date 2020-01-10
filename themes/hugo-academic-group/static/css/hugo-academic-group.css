@@ -21,10 +21,11 @@ html {
 }
 
 header{
-    background-image: url("../img/header.jpg");
+    /* background-image: url("../img/header.jpg"); */
+    background-color:#fff;
     background-size: cover;
     text-align: center;
-    color: #fff;
+    color: #002147;
     background-position: center;
     /* min-height: 100%;  */
 }
@@ -33,6 +34,7 @@ header{
     position: relative;
     width: 100%;
     padding: 50px 15px;
+    color: #002147;
 }
 
 .header-content .header-content-inner h1 {
