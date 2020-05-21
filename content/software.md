@@ -3,12 +3,12 @@ type = "software"
 title = ""
 subtitle = ""
 logo = ""
-link = "https://github.com/tinosulzer/PyBaMM"
+link = "https://github.com/pybamm-team/PyBaMM"
 +++
 
 ## PyBaMM (**Py**thon **Ba**ttery **M**athematical **M**odelling)
 
-[PyBaMM](https://github.com/pybamm-team/PyBaMM) is a unique and versatile battery modelling package for python produced by a consortium of academics connected through the [Faraday Institution](https://faraday.ac.uk/). PyBaMM's development has been driven by a need within the battery community for a modelling software that is **reliable**, **flexible**, and **efficient**. The Oxford Battery Modelling group has played a central role in the development of PyBaMM, drawing upon our unique skill base to satisfy the key requirements of the battery community.
+[PyBaMM](https://pybamm.org) is a unique and versatile battery modelling package for python produced by a consortium of academics connected through the [Faraday Institution](https://faraday.ac.uk/). PyBaMM's development has been driven by a need within the battery community for a modelling software that is **reliable**, **flexible**, and **efficient**. The Oxford Battery Modelling group has played a central role in the development of PyBaMM, drawing upon our unique skill base to satisfy the key requirements of the battery community.
 
 ## **Reliable**
 - modern professional software engineering techniques
@@ -33,4 +33,4 @@ link = "https://github.com/tinosulzer/PyBaMM"
 &nbsp;
 &nbsp;
 
-You can find us on [Github](https://github.com/tinosulzer/PyBaMM) where you can find instructions to install PyBaMM. We are also always open to contributions so please feel free to submit an issue or fork the repository and submit a pull requuest to add to the codebase.
+You can find us on [Github](https://github.com/pybamm-team/PyBaMM) where you can find instructions to install PyBaMM. We are also always open to contributions so please feel free to submit an issue or fork the repository and submit a pull requuest to add to the codebase.

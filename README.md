@@ -4,7 +4,7 @@
 
 1. Clone into the repository. In a terminal, navigate to the repository where you want to install this (can be any repository) then:
 ```
-$ git clone https://github.com/tinosulzer/oxford-battery-maths-website.git
+$ git clone https://github.com/jonchapman1/oxford-battery-maths-website.git
 $ cd oxford-battery-maths-website
 ```
 2. Run the website locally using hugo:
