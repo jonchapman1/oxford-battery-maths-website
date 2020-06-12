@@ -12,7 +12,12 @@ $ cd oxford-battery-maths-website
 $ hugo/hugo server
 ```
 then open a web browser and go to the link indicated in the terminal (probably http://localhost:1313/).
-3. Make any changes by editing the markdown files in [content](./content/) or the [config file](./config.toml). If `hugo server` is still running (hasn't been terminated by Ctrl+C or closing the terminal) then these changes will be visible immediately on http://localhost:1313/.
+
+3. Make any changes by editing the markdown files in [content](./content/) or the [config file](./config.toml). If `hugo server` is still running (hasn't been terminated by Ctrl+C or closing the terminal) then these changes will be visible immediately on http://localhost:1313/. If the content does not appear to be updating try running
+```
+$ hugo/hugo server --disableFastRender
+```
+
 4. Add your changes to GitHub:
 ```
 $ git add path/to/files/changed

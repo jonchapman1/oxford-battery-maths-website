@@ -6,9 +6,11 @@ logo = ""
 link = "https://github.com/pybamm-team/PyBaMM"
 +++
 
+{{< figure src="/img/pybamm_logo.png" width="600" alt="PyBaMM Logo" link="https://www.pybamm.org">}}
+
 ## PyBaMM (**Py**thon **Ba**ttery **M**athematical **M**odelling)
 
-[PyBaMM](https://pybamm.org) is a unique and versatile battery modelling package for python produced by a consortium of academics connected through the [Faraday Institution](https://faraday.ac.uk/). PyBaMM's development has been driven by a need within the battery community for a modelling software that is **reliable**, **flexible**, and **efficient**. The Oxford Battery Modelling group has played a central role in the development of PyBaMM, drawing upon our unique skill base to satisfy the key requirements of the battery community.
+[PyBaMM](https://www.pybamm.org) is a unique and versatile battery modelling package for python produced by a consortium of academics connected through the [Faraday Institution](https://www.faraday.ac.uk/). PyBaMM's development has been driven by a need within the battery community for a modelling software that is **reliable**, **flexible**, and **efficient**. The Oxford Battery Modelling group has played a central role in the development of PyBaMM, drawing upon our unique skill base to satisfy the key requirements of the battery community.
 
 ## **Reliable**
 - modern professional software engineering techniques
@@ -18,19 +20,18 @@ link = "https://github.com/pybamm-team/PyBaMM"
 - well documented
 
 ## **Flexible**
-- use of syntax tree allows simple integration of new physics
 - many inbuilt models and solvers to provide user with choice
-- modular code base allows for easy chop and change of any section (e.g. write your own solver)
-- open source so anything can be modified
-- written in python which is simple and means it is easy to modify code
-- well documented
+- submodel structure allows for simple integration of new physics
+- modular code base separates models, discretization and solver so that each can be selected independently  (e.g. easy to include your own solver)
+- open source
+- user-friendly python codebase
 
 ## **Efficient**
-- Passes computationally expensive operations to lower level programming languages (e.g. C)
-- A range of accurate inbuilt our unique reduced order asymptotic models for many situations
-- Employment of advanced modern numerical analysis techniques (Alex)
+- passes computationally expensive operations to lower level programming languages (e.g. C)
+- includes accurate reduced-order models suitable for many applications
+- uses automatic differentiation to compute the Jacobian for any model, greatly improving solver performance
 
 &nbsp;
 &nbsp;
 
-You can find us on [Github](https://github.com/pybamm-team/PyBaMM) where you can find instructions to install PyBaMM. We are also always open to contributions so please feel free to submit an issue or fork the repository and submit a pull requuest to add to the codebase.
+Please visit the PyBaMM [website](https://pybamm.org) for more information, including a [getting started](https://www.pybamm.org/getting-started) guide. The source code is available on [Github](https://github.com/pybamm-team/PyBaMM). We are always open to contributions, so please feel free to submit an issue or fork the repository and submit a pull request to add to the codebase.

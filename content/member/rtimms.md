@@ -1,11 +1,11 @@
 +++
-bio = "Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution."
+bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "rtimms"
 interests = ["Asymptotic Methods", "Mathematical Modelling", "Industrial Mathematics"]
 name = "Dr Robert Timms"
-portrait = "/portraits/rtimms_photo.jpg"
-short_bio = "Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution."
+portrait = "/portraits/timms_photo.jpg"
+short_bio = "Robert is currently a Postdoctoral Research Assistant at the Mathematical Institute, University of Oxford. His research focuses on the Mathematical Modelling of Batteries, and is being conducted within the Multi-Scale Mathematical Modelling Fast Start Project of the Faraday Institution.  He is also a key member of the core [PyBaMM](https://github.com/pybamm-team/PyBaMM) development team."
 short_name = "Timms"
 title = "Dr Robert Timms"
 position = "postdoc"
@@ -15,6 +15,11 @@ personal_website = "https://www.maths.ox.ac.uk/people/robert.timms"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:timms@maths.ox.ac.uk"
+
+[[social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/robertwtimms"    
 
 [[social]]
     icon = "github"
