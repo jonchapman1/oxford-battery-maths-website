@@ -135,7 +135,7 @@ custom_js  = []
 [[slogan_columns]]
   title = ""
   text =  "To improve battery performance it is important to understand the underlying physical mechanisms occurring in the battery and encase them in mathematical models of the appropriate complexity and fidelity to allow design and control systems to operate effectively. The group develops PDE based models, studies these in various asymptotic limits and determines efficient computational methods of solution. Current areas of interest include effective ways of accounting for thermal effects, heterogeneity of particles, mechanical deformation, and growth of SEI layers."
-  link = "/about"
+  link = "/research"
   link_text = "Find out more"
   weight = 1
 
