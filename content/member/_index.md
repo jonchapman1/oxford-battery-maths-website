@@ -12,4 +12,8 @@ title = "People"
 [[collaborators]]
     name = "Monroe Research Group"
     link = "http://monroegroup.spc.ox.ac.uk/"
+
+[[collaborators]]
+    name = "Dr. Steven Psaltis, Queensland University of Technology"
+    link = "https://staff.qut.edu.au/staff/steven.psaltis"    
 +++

@@ -1,7 +1,7 @@
 +++
 name = "Valentin Sulzer"
 bio = ""
-short_bio = "Tino completed a DPhil in Applied Mathematics in 2019. He is now pursuing a postdoc in [Anna Stefanopoulou's battery group at the University of Michigan](https://scholar.google.com/citations?user=CCOA92wAAAAJ&hl=en). He also remains a key member of the core [PyBaMM](https://github.com/pybamm-team/PyBaMM) development team. "
+short_bio = "Tino completed a DPhil in Applied Mathematics in 2019. He is now pursuing a postdoc in [Anna Stefanopoulou's battery group at the University of Michigan](https://scholar.google.com/citations?user=CCOA92wAAAAJ&hl=en). He also remains a key member of the core [PyBaMM](https://pybamm.org) development team. "
 id = "sulzer"
 title = "Valentin Sulzer"
 portrait = "/portraits/sulzer.jpg"

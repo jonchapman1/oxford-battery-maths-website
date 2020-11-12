@@ -20,12 +20,12 @@ url_video = ""
 [[authors]]
     name = "Scott Marquis"
     is_member = true
-    link = "/marquis"
+    link = "/scottmarquis"
 
 [[authors]]
     name = "Robert Timms"
     is_member = true
-    link = "/Timms"
+    link = "/rtimms"
 
 [[authors]]
     name = "Valentin Sulzer"
