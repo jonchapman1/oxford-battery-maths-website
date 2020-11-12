@@ -38,6 +38,10 @@ url_video = ""
     link = "/sulzer"
 
 [[authors]]
+    name = "Anmol Jnawali"
+    is_member = false
+
+[[authors]]
     name = "Matthew Kok"
     is_member = false
 
@@ -45,6 +49,11 @@ url_video = ""
     name = "Colin P. Please"
     is_member = true
     link = "/please"
+
+[[authors]]
+    name = "S. Jon Chapman"
+    is_member = true
+    link = "/chapman"    
 
 [[authors]]
     name = "Paul Shearing"
