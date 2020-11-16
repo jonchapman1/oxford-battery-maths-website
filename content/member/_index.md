@@ -14,6 +14,6 @@ title = "People"
     link = "http://monroegroup.spc.ox.ac.uk/"
 
 [[collaborators]]
-    name = "Dr. Steven Psaltis, Queensland University of Technology"
-    link = "https://staff.qut.edu.au/staff/steven.psaltis"    
+    name = "School of Mathematics, Queensland University of Technology, Australia"
+    link = "https://research.qut.edu.au/mpp/projects/modelling-of-electrochemical-systems/"    
 +++
